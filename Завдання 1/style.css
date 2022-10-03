@@ -1,0 +1,10 @@
+div{
+    border: solid black 2px;
+    width: 100px;
+}
+.left{
+    float: left;
+}
+.right {
+    float: right;
+}

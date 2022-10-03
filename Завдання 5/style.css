@@ -1,0 +1,21 @@
+body {
+    margin-left: 30px;
+}
+
+body > div {
+
+    display: list-item;
+    list-style-type: upper-latin;
+}
+
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}

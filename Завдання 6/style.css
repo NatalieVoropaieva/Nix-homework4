@@ -1,0 +1,10 @@
+.aside{
+    border: dotted black 2px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.main{
+    border: solid black 2px;
+    padding: 10px;
+    box-sizing: border-box;
+}

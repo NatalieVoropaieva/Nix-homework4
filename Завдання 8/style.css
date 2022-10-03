@@ -1,0 +1,25 @@
+body>div{
+    position: absolute;
+}
+div{
+    height:100px;
+    width:100px;
+    color: white;
+    box-sizing: border-box;
+}
+.top-left{
+    background-color: green;
+}
+.top-right{
+    background-color: blue;
+    left: 108px;
+}
+.bottom-left{
+    background-color: black;
+    top:108px;
+}
+.bottom-right{
+    background-color: red;
+    top:108px;
+    left:108px;
+}

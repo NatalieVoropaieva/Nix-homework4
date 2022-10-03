@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+}
+.sublist{
+    display: none;
+    background-color: #FF0000;
+    width: fit-content;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.has-sublist:hover .sublist{
+    display: block;
+}
+.has-sublist {
+    position: relative;
+}
